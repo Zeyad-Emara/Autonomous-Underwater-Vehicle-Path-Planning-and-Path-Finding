@@ -1,0 +1,515 @@
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.1_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: A* Search
+Run 1:
+Total moves/path length: 280
+Total computation time: 0.0019989013671875
+
+Run 2:
+Total moves/path length: 280
+Total computation time: 0.0020270347595214844
+
+Run 3:
+Total moves/path length: 280
+Total computation time: 0.0
+
+Run 4:
+Total moves/path length: 280
+Total computation time: 0.003184080123901367
+
+Run 5:
+Total moves/path length: 280
+Total computation time: 0.004006862640380859
+
+Run 6:
+Total moves/path length: 280
+Total computation time: 0.003118276596069336
+
+Run 7:
+Total moves/path length: 280
+Total computation time: 0.0035507678985595703
+
+Run 8:
+Total moves/path length: 280
+Total computation time: 0.0009999275207519531
+
+Run 9:
+Total moves/path length: 280
+Total computation time: 0.0020782947540283203
+
+Run 10:
+Total moves/path length: 280
+Total computation time: 0.0029654502868652344
+
+Run 11:
+Total moves/path length: 280
+Total computation time: 0.003729581832885742
+
+Run 12:
+Total moves/path length: 280
+Total computation time: 0.0052907466888427734
+
+Run 13:
+Total moves/path length: 280
+Total computation time: 0.001989126205444336
+
+Run 14:
+Total moves/path length: 280
+Total computation time: 0.0
+
+Run 15:
+Total moves/path length: 280
+Total computation time: 0.002994537353515625
+
+Run 16:
+Total moves/path length: 280
+Total computation time: 0.0015959739685058594
+
+Run 17:
+Total moves/path length: 280
+Total computation time: 0.0019450187683105469
+
+Run 18:
+Total moves/path length: 280
+Total computation time: 0.0039556026458740234
+
+Run 19:
+Total moves/path length: 280
+Total computation time: 0.0006012916564941406
+
+Run 20:
+Total moves/path length: 280
+Total computation time: 0.005912065505981445
+
+Average moves: 280.0
+Average computation time: 0.002597177028656006
+----------------------------------------
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.1_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: Dijkstra
+Run 1:
+Total moves/path length: 280
+Total computation time: 0.06201338768005371
+
+Run 2:
+Total moves/path length: 280
+Total computation time: 0.06158757209777832
+
+Run 3:
+Total moves/path length: 280
+Total computation time: 0.056147098541259766
+
+Run 4:
+Total moves/path length: 280
+Total computation time: 0.056725502014160156
+
+Run 5:
+Total moves/path length: 280
+Total computation time: 0.060057640075683594
+
+Run 6:
+Total moves/path length: 280
+Total computation time: 0.054132699966430664
+
+Run 7:
+Total moves/path length: 280
+Total computation time: 0.06391429901123047
+
+Run 8:
+Total moves/path length: 280
+Total computation time: 0.057826995849609375
+
+Run 9:
+Total moves/path length: 280
+Total computation time: 0.06209540367126465
+
+Run 10:
+Total moves/path length: 280
+Total computation time: 0.06495356559753418
+
+Run 11:
+Total moves/path length: 280
+Total computation time: 0.05529665946960449
+
+Run 12:
+Total moves/path length: 280
+Total computation time: 0.05562591552734375
+
+Run 13:
+Total moves/path length: 280
+Total computation time: 0.06267261505126953
+
+Run 14:
+Total moves/path length: 280
+Total computation time: 0.05568122863769531
+
+Run 15:
+Total moves/path length: 280
+Total computation time: 0.06350135803222656
+
+Run 16:
+Total moves/path length: 280
+Total computation time: 0.058292388916015625
+
+Run 17:
+Total moves/path length: 280
+Total computation time: 0.05850028991699219
+
+Run 18:
+Total moves/path length: 280
+Total computation time: 0.06164145469665527
+
+Run 19:
+Total moves/path length: 280
+Total computation time: 0.05652022361755371
+
+Run 20:
+Total moves/path length: 280
+Total computation time: 0.05465197563171387
+
+Average moves: 280.0
+Average computation time: 0.05909191370010376
+----------------------------------------
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.4_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: A* Search
+Run 1:
+Total moves/path length: 464
+Total computation time: 0.014461517333984375
+
+Run 2:
+Total moves/path length: 464
+Total computation time: 0.012438058853149414
+
+Run 3:
+Total moves/path length: 464
+Total computation time: 0.01299595832824707
+
+Run 4:
+Total moves/path length: 464
+Total computation time: 0.011997699737548828
+
+Run 5:
+Total moves/path length: 464
+Total computation time: 0.014620780944824219
+
+Run 6:
+Total moves/path length: 464
+Total computation time: 0.013016700744628906
+
+Run 7:
+Total moves/path length: 464
+Total computation time: 0.0050389766693115234
+
+Run 8:
+Total moves/path length: 464
+Total computation time: 0.012704610824584961
+
+Run 9:
+Total moves/path length: 464
+Total computation time: 0.012784719467163086
+
+Run 10:
+Total moves/path length: 464
+Total computation time: 0.014417409896850586
+
+Run 11:
+Total moves/path length: 464
+Total computation time: 0.011507987976074219
+
+Run 12:
+Total moves/path length: 464
+Total computation time: 0.008870363235473633
+
+Run 13:
+Total moves/path length: 464
+Total computation time: 0.008966207504272461
+
+Run 14:
+Total moves/path length: 464
+Total computation time: 0.009758710861206055
+
+Run 15:
+Total moves/path length: 464
+Total computation time: 0.01381540298461914
+
+Run 16:
+Total moves/path length: 464
+Total computation time: 0.013373851776123047
+
+Run 17:
+Total moves/path length: 464
+Total computation time: 0.018662214279174805
+
+Run 18:
+Total moves/path length: 464
+Total computation time: 0.009740352630615234
+
+Run 19:
+Total moves/path length: 464
+Total computation time: 0.01263570785522461
+
+Run 20:
+Total moves/path length: 464
+Total computation time: 0.011928319931030273
+
+Average moves: 464.0
+Average computation time: 0.012186777591705323
+----------------------------------------
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.4_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: Dijkstra
+Run 1:
+Total moves/path length: 456
+Total computation time: 0.22140908241271973
+
+Run 2:
+Total moves/path length: 456
+Total computation time: 0.20538973808288574
+
+Run 3:
+Total moves/path length: 456
+Total computation time: 0.20841336250305176
+
+Run 4:
+Total moves/path length: 456
+Total computation time: 0.22630047798156738
+
+Run 5:
+Total moves/path length: 456
+Total computation time: 0.1985478401184082
+
+Run 6:
+Total moves/path length: 456
+Total computation time: 0.20898056030273438
+
+Run 7:
+Total moves/path length: 456
+Total computation time: 0.19056248664855957
+
+Run 8:
+Total moves/path length: 456
+Total computation time: 0.19634079933166504
+
+Run 9:
+Total moves/path length: 456
+Total computation time: 0.1896805763244629
+
+Run 10:
+Total moves/path length: 456
+Total computation time: 0.199615478515625
+
+Run 11:
+Total moves/path length: 456
+Total computation time: 0.19101500511169434
+
+Run 12:
+Total moves/path length: 456
+Total computation time: 0.2070612907409668
+
+Run 13:
+Total moves/path length: 456
+Total computation time: 0.195418119430542
+
+Run 14:
+Total moves/path length: 456
+Total computation time: 0.19997644424438477
+
+Run 15:
+Total moves/path length: 456
+Total computation time: 0.19310736656188965
+
+Run 16:
+Total moves/path length: 456
+Total computation time: 0.21169662475585938
+
+Run 17:
+Total moves/path length: 456
+Total computation time: 0.2013845443725586
+
+Run 18:
+Total moves/path length: 456
+Total computation time: 0.21045899391174316
+
+Run 19:
+Total moves/path length: 456
+Total computation time: 0.2023007869720459
+
+Run 20:
+Total moves/path length: 456
+Total computation time: 0.20302629470825195
+
+Average moves: 456.0
+Average computation time: 0.20303429365158082
+----------------------------------------
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.25_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: A* Search
+Run 1:
+Total moves/path length: 313
+Total computation time: 0.0019996166229248047
+
+Run 2:
+Total moves/path length: 313
+Total computation time: 0.005517721176147461
+
+Run 3:
+Total moves/path length: 313
+Total computation time: 0.003566741943359375
+
+Run 4:
+Total moves/path length: 313
+Total computation time: 0.004018306732177734
+
+Run 5:
+Total moves/path length: 313
+Total computation time: 0.0065615177154541016
+
+Run 6:
+Total moves/path length: 313
+Total computation time: 0.004122734069824219
+
+Run 7:
+Total moves/path length: 313
+Total computation time: 0.005990266799926758
+
+Run 8:
+Total moves/path length: 313
+Total computation time: 0.005405902862548828
+
+Run 9:
+Total moves/path length: 313
+Total computation time: 0.001997709274291992
+
+Run 10:
+Total moves/path length: 313
+Total computation time: 0.006513118743896484
+
+Run 11:
+Total moves/path length: 313
+Total computation time: 0.003993988037109375
+
+Run 12:
+Total moves/path length: 313
+Total computation time: 0.0009922981262207031
+
+Run 13:
+Total moves/path length: 313
+Total computation time: 0.006597757339477539
+
+Run 14:
+Total moves/path length: 313
+Total computation time: 0.002608060836791992
+
+Run 15:
+Total moves/path length: 313
+Total computation time: 0.00401616096496582
+
+Run 16:
+Total moves/path length: 313
+Total computation time: 0.0040209293365478516
+
+Run 17:
+Total moves/path length: 313
+Total computation time: 0.002989530563354492
+
+Run 18:
+Total moves/path length: 313
+Total computation time: 0.0020017623901367188
+
+Run 19:
+Total moves/path length: 313
+Total computation time: 0.008988380432128906
+
+Run 20:
+Total moves/path length: 313
+Total computation time: 0.0059850215911865234
+
+Average moves: 313.0
+Average computation time: 0.004394376277923584
+----------------------------------------
+Enviroment: C:/Users/ziadh/OneDrive/Desktop/COMP3004/Enviroments/Medium_0.25_20_1.json
+Path-Planning: Greedy Search
+Path-Finding: Dijkstra
+Run 1:
+Total moves/path length: 303
+Total computation time: 0.10873985290527344
+
+Run 2:
+Total moves/path length: 303
+Total computation time: 0.10688591003417969
+
+Run 3:
+Total moves/path length: 303
+Total computation time: 0.11463165283203125
+
+Run 4:
+Total moves/path length: 303
+Total computation time: 0.09368681907653809
+
+Run 5:
+Total moves/path length: 303
+Total computation time: 0.10796880722045898
+
+Run 6:
+Total moves/path length: 303
+Total computation time: 0.11277461051940918
+
+Run 7:
+Total moves/path length: 303
+Total computation time: 0.11279416084289551
+
+Run 8:
+Total moves/path length: 303
+Total computation time: 0.10285639762878418
+
+Run 9:
+Total moves/path length: 303
+Total computation time: 0.11170220375061035
+
+Run 10:
+Total moves/path length: 303
+Total computation time: 0.09898614883422852
+
+Run 11:
+Total moves/path length: 303
+Total computation time: 0.10194563865661621
+
+Run 12:
+Total moves/path length: 303
+Total computation time: 0.10939812660217285
+
+Run 13:
+Total moves/path length: 303
+Total computation time: 0.10467314720153809
+
+Run 14:
+Total moves/path length: 303
+Total computation time: 0.1011192798614502
+
+Run 15:
+Total moves/path length: 303
+Total computation time: 0.10588669776916504
+
+Run 16:
+Total moves/path length: 303
+Total computation time: 0.10321855545043945
+
+Run 17:
+Total moves/path length: 303
+Total computation time: 0.11664700508117676
+
+Run 18:
+Total moves/path length: 303
+Total computation time: 0.10371017456054688
+
+Run 19:
+Total moves/path length: 303
+Total computation time: 0.11778545379638672
+
+Run 20:
+Total moves/path length: 303
+Total computation time: 0.11636090278625488
+
+Average moves: 303.0
+Average computation time: 0.10758857727050782
