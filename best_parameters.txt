@@ -1,0 +1,5 @@
+Number of goals: 20
+Map size: 75 x 75
+Time taken for grid search: 18.46992325782776 seconds
+Average fitness: 550.4603170554143
+Best parameters are: population size 50, mutation rate 0.01, and 1000 generations
